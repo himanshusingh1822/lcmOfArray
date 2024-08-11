@@ -1,0 +1,2 @@
+# lcmOfArray
+in cpp
